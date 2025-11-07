@@ -13,6 +13,8 @@ Welcome to the DoreDoreDo organization! This README provides an overview of all 
 
 - [**.github**](https://github.com/DoreDoreDo/.github) - Organization's README repository
   - Contains organization-wide configurations and documentation
+  - Language: Markdown
+  - Status: Active
   - Visibility: Private
 
 ---

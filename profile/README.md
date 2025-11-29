@@ -10,7 +10,7 @@ DoreDore is an application designed to connect guides and agencies for exception
 ### Main repositories
 - [Mobile app](https://github.com/DoreDoreDo/dore-app)
 - [Application Backend](https://github.com/DoreDoreDo/dore-API)
-- [Deployment - TO-DO](https://github.com/DoreDoreDo/dore-deploy)
+- [Deployment](https://github.com/DoreDoreDo/dore-deploy)
 - [Administrative web - TO-DO](https://github.com/DoreDoreDo/dore-admin)
 
 ### Statistics & Analytics
